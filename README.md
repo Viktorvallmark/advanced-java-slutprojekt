@@ -6,3 +6,4 @@
 * Relä till arduino
 * Lödstation
 * Ny router (?)
+* Lödkolvset
